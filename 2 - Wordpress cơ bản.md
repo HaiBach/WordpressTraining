@@ -175,7 +175,7 @@ Trong các theme sẽ hỗ trợ chỉnh sửa widget trực quan hơn ở menu:
 
 
 
-## 9. THIẾT LẬP PERMALINK
+## 9. THIẾT LẬP PERMALINK [※](#wordpress-cơ-bản)
 
 Permalink trong Wordpress được định nghĩa là những đường dẫn có cấu trúc dễ nhớ, thân thiện với người sử dụng,
 thay cho các đường dẫn không thân thiện bằng ID
