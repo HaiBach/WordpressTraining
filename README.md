@@ -1,0 +1,2 @@
+# WordpressTraining
+Wordpress training manual
